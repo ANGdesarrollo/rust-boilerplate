@@ -1,3 +1,3 @@
 pub(crate) mod presentation;
-mod infrastructure;
+pub(crate) mod infrastructure;
 mod domain;

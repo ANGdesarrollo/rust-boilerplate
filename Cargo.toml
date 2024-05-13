@@ -5,4 +5,7 @@ edition = "2021"
 
 [dependencies]
 actix-web = "4.5.1"
-sea-orm = "0.12.15"
+uuid = { version = "1.8.0", features = ["serde", "v4"] }
+dotenv = "0.15.0"
+sea-orm = { version = "0.12.2", features = ["sqlx-postgres", "runtime-tokio-rustls", "macros", "with-chrono", "with-json", "with-uuid"] }
+log = "0.4.21"
