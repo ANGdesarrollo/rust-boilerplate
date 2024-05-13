@@ -3,6 +3,20 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/migration/target" />
+      <excludeFolder url="file://$MODULE_DIR$/migration/target/debug/build/ahash-477a142b47b7d0ee/out" />
+      <excludeFolder url="file://$MODULE_DIR$/migration/target/debug/build/crossbeam-utils-3fe6842e1d51f6ce/out" />
+      <excludeFolder url="file://$MODULE_DIR$/migration/target/debug/build/generic-array-e3fb973858649f7e/out" />
+      <excludeFolder url="file://$MODULE_DIR$/migration/target/debug/build/libc-6def7a19c3ccbebf/out" />
+      <excludeFolder url="file://$MODULE_DIR$/migration/target/debug/build/parking_lot_core-843e1727cbcf0c09/out" />
+      <excludeFolder url="file://$MODULE_DIR$/migration/target/debug/build/paste-41970d509ef437a9/out" />
+      <excludeFolder url="file://$MODULE_DIR$/migration/target/debug/build/proc-macro-error-21d99ef831252fc0/out" />
+      <excludeFolder url="file://$MODULE_DIR$/migration/target/debug/build/proc-macro-error-attr-df27c0362929e61f/out" />
+      <excludeFolder url="file://$MODULE_DIR$/migration/target/debug/build/rustls-c22273522b8d3c28/out" />
+      <excludeFolder url="file://$MODULE_DIR$/migration/target/debug/build/serde-4f1486ccc5a24ba5/out" />
+      <excludeFolder url="file://$MODULE_DIR$/migration/target/debug/build/serde_json-50eee46072e287b1/out" />
+      <excludeFolder url="file://$MODULE_DIR$/migration/target/debug/build/syn-1a398b94e6fe3ccb/out" />
+      <excludeFolder url="file://$MODULE_DIR$/migration/target/debug/examples" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />

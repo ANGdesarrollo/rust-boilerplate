@@ -1,5 +1,4 @@
 use crate::modules::item::domain::use_cases::create_use_case_trait::CreateUseCaseTrait;
-
 pub struct CreateUseCase {}
 
 impl CreateUseCaseTrait for CreateUseCase {
