@@ -1,1 +1,1 @@
-mod item_controller;
+pub(crate) mod item_controller;
